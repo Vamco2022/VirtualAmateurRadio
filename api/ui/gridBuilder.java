@@ -1,4 +1,4 @@
-package com.vamco.java.system.virtualAmateurRadio.client.api.ui;
+package com.vamco.java.system.virtualAmateurRadio.server.api.ui;
 
 import java.awt.*;
 
